@@ -1,6 +1,7 @@
 AstralAzeta license
 ===================================
 
+
 0. Terminology
 --------------
   0.1. "The Pack" and/or "This Pack" means the software package licensed under 
